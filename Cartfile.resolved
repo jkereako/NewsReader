@@ -1,0 +1,5 @@
+github "Alamofire/Alamofire" "3.3.0"
+github "thoughtbot/Argo" "v2.3.0"
+github "thoughtbot/Curry" "v2.0.0"
+github "cezheng/Fuzi" "bcc7211aed93e1712c97f643320d84f78aa536b8"
+github "jessesquires/JSQCoreDataKit" "2.2.0"
