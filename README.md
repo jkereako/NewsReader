@@ -9,8 +9,8 @@ was asked to "walk through the code". As you can see, there's a shitload of
 files in this project so I had no idea where to start and where to end. I
 fumbled, communicated poorly and, of course, was rejected.
 
-Everything from **Description** on down was in a README.md which I included in
-the project. No one looked at that, either.
+Everything from **Description** on down was in a README which I included in the
+project. No one looked at that, either.
 
 ### Heed my warning
 If you are asked to complete a project to assess your skill and you estimate
