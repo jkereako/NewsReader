@@ -1,0 +1,2 @@
+# NewsReader
+Coding assessment
