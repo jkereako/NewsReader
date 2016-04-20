@@ -28,6 +28,9 @@ list of comments for each article that has comments.
 > both the Top Stories API and Communities (i.e. comments) API. Add the keys to
 > the file `Resources/Secrets.example.plist` and rename it to `Secrets.plist`.
 
+<img src="https://raw.githubusercontent.com/jkereako/NewsReader/master/Images/screen1.png" alt="Top stories" width="320" height="568" />
+<img src="https://raw.githubusercontent.com/jkereako/NewsReader/master/Images/screen2.png" alt="Article" width="320" height="568" />
+
 ### Features
 - Persistent storage of content
 - Searchable article titles
