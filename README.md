@@ -4,10 +4,10 @@ interview. I'm not in violation of a contract as I did not sign an NDA nor is
 there anything in this project which is particular to the organization.
 
 I spent around 15 hours on this project because I wanted to impress the
-interviewers. Interview day comes and I learn that no one has seen the app. I
-was asked to "walk through the code". As you can see, there's a shitload of
-files in this project so I had no idea where to start and where to end. I
-fumbled, communicated poorly and, of course, was rejected.
+interviewers. Interview day comes and I learn that *no one bothered to run the
+app*. As such, I was asked to "walk through the code". As you can see, there are
+a shitload of files so I had no idea where to start and where to end. I fumbled,
+communicated poorly and, of course, was rejected.
 
 Everything from **Description** on down was in a README which I included in the
 project. No one looked at that, either.
