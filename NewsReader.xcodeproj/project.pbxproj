@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		3600EBD31CAC413C00B62957 /* Secrets.plist in Resources */ = {isa = PBXBuildFile; fileRef = 3600EBD21CAC413C00B62957 /* Secrets.plist */; };
+		3678AEC51CC7DA0700E28D62 /* Secrets.example.plist in Resources */ = {isa = PBXBuildFile; fileRef = 3678AEC41CC7DA0700E28D62 /* Secrets.example.plist */; };
 		6201BEE51CA6F696003F9A1B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6201BEE41CA6F696003F9A1B /* AppDelegate.swift */; };
 		6201BEEA1CA6F696003F9A1B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6201BEE81CA6F696003F9A1B /* Main.storyboard */; };
 		6201BEED1CA6F696003F9A1B /* NewsReader.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 6201BEEB1CA6F696003F9A1B /* NewsReader.xcdatamodeld */; };
@@ -67,6 +68,7 @@
 
 /* Begin PBXFileReference section */
 		3600EBD21CAC413C00B62957 /* Secrets.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Secrets.plist; sourceTree = "<group>"; };
+		3678AEC41CC7DA0700E28D62 /* Secrets.example.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Secrets.example.plist; sourceTree = "<group>"; };
 		6201BEE11CA6F696003F9A1B /* NewsReader.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NewsReader.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6201BEE41CA6F696003F9A1B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		6201BEE91CA6F696003F9A1B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -205,6 +207,7 @@
 				6201BEE81CA6F696003F9A1B /* Main.storyboard */,
 				6201BEEB1CA6F696003F9A1B /* NewsReader.xcdatamodeld */,
 				3600EBD21CAC413C00B62957 /* Secrets.plist */,
+				3678AEC41CC7DA0700E28D62 /* Secrets.example.plist */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -452,6 +455,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3600EBD31CAC413C00B62957 /* Secrets.plist in Resources */,
+				3678AEC51CC7DA0700E28D62 /* Secrets.example.plist in Resources */,
 				6201BEF21CA6F696003F9A1B /* LaunchScreen.storyboard in Resources */,
 				6201BEEF1CA6F696003F9A1B /* Assets.xcassets in Resources */,
 				6201BEEA1CA6F696003F9A1B /* Main.storyboard in Resources */,
