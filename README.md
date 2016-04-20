@@ -25,7 +25,9 @@ can read the article **as text** inside the app... no ads! You may also view a
 list of comments for each article that has comments.
 
 > NOTE: This app interfaces with the NY Times API. You'll need an API keys for
-> both the Top Stories API and Communities (i.e. comments) API.
+> both the Top Stories API and Communities (i.e. comments) API. Next, add the
+> keys to the file `Resources/Secrets.example.plist` and rename it to
+> `Secrets.plist`.
 
 ### Features
 - Persistent storage of content
