@@ -15,9 +15,9 @@ the project. No one looked at that, either.
 ### Heed my warning
 If you are asked to complete a project to assess your skill and you estimate
 that project will take longer than 1 hour, **demand upfront, market-rate
-compensation**. Or simply **don't fucking do it**. If you don't, not only are
-you liable to completely waste your time, you also send the message that you're
-a doormat.
+compensation** or **don't fucking do it**. If you complete the project for free,
+not only are you liable to completely waste your time, you also send the message
+that you're a doormat.
 
 # Description
 Displays a searchable list of the most recent top stories from the NY Times. You
