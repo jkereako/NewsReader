@@ -1,6 +1,13 @@
 # What is this?
+
+> NOTE: This app was built in early 2016; before Swift 4 and before the Codable
+> protocol. It also uses the package manager Carthage—I've come to find
+> CocoaPods is still the favorite— and
+> the convoluted and slow JSON parsing library, [Argo][Argo]. This app is a bad
+> example for how to build apps.
+
 This app is a technical assessment which I was asked to complete prior to an
-interview. I'm not in violation of a contract as I did not sign an NDA nor is
+interview with a 170 year old life insurance company based in Massachusetts. I'm not in violation of a contract as I did not sign an NDA nor is
 there anything in this project which is particular to the organization.
 
 I spent around 15 hours on this project because I wanted to impress the
